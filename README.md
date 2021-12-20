@@ -8,3 +8,4 @@ Instructions:
 
 Other assumptions
 	Percentage of sales transferred to publisher = (pages of book / price )
+	5 Types of genre: Fiction, Non-Fiction, Drama, Poetry, Romance
